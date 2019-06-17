@@ -63,3 +63,5 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 [OpenAI blog](https://openai.com/blog/) | Authors : Many | Subjects : ML, RL, Deep Learning, NLP
 
 [Traductions littérales](https://blog.merigoux.fr/fr/) | Author : Denis Mérigoux (French and English blog) | Subjects : CS, Programming
+
+[Piekniewski's blog](https://blog.piekniewski.info/) | Author : Filip Piękniewski | Subjects : Computer Vision, Deep Learning critic
