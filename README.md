@@ -60,5 +60,5 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [Deepmind blog](https://deepmind.com/blog/) | Authors : Many | Subjects : ML, RL, Deep Learning
 
-[OpenAI blog]https://openai.com/blog/ | Authors : Many | Subjects : ML, RL, Deep Learning, NLP
+[OpenAI blog](https://openai.com/blog/) | Authors : Many | Subjects : ML, RL, Deep Learning, NLP
 
