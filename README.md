@@ -65,3 +65,5 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 [Traductions littérales](https://blog.merigoux.fr/fr/) | Author : Denis Mérigoux (French and English blog) | Subjects : CS, Programming
 
 [Piekniewski's blog](https://blog.piekniewski.info/) | Author : Filip Piękniewski | Subjects : Computer Vision, Deep Learning critic
+
+[Eigenfoo](https://eigenfoo.xyz/) | Author :  George Ho | Subjects : Bayesian ML, NLP
