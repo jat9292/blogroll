@@ -16,6 +16,8 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [Ian Osband](https://iosband.github.io/) | Author : Ian Osband | Subject : RL
 
+[Agustinus Kristiadi's Blog](https://wiseodd.github.io/) | Author :  Agustinus Kristiadi | Subjects : Bayesian ML, Deep Learning, Topology 
+
 [I'm a bandit](https://blogs.princeton.edu/imabandit/) | Author : Sébastien Bubeck | Subjects : Bandit Algorithms, Optimization
 
 [Off the convex path](https://www.offconvex.org/) | Authors : Many (Sanjeev Arora et Al) | Subjects : Deep Learning theory, Unsupervised learning
