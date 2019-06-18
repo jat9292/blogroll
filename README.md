@@ -30,6 +30,8 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [arg min_blog](http://www.argmin.net/) | Author : Ben Recht | Subjects : ML, RL, Evolutionary Algorithms
 
+[Bear's Den](http://dillingers.com/blog/) | Author : Ray Dillinger | Subjects : Crypto, Evolutionary Algorithms, AI, AGI, Deep Learning
+
 [Sebastian Ruder](http://ruder.io/author/sebastian/index.html) | Author : Sebastian Ruder | Subjects : NLP
 
 [Pickled ML](https://blog.aqnichol.com/) | Author : Alex Nichol | Subject : RL
