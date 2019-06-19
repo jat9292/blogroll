@@ -40,6 +40,8 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [Guilherme's Blog](https://gdmarmerola.github.io/) | Author : Guilherme Duarte Marmerola | Subject : ML, Deep Learning, RL
 
+[Kevin Hua](https://kevinhua.shinyapps.io/DS_viz/) | Author : Kevin Hua | Subject : ML, DataViz
+
 [Vitalik Buterin's website](https://vitalik.ca/) | Author : Vitalik Buterin | Subject : Crypto, Math
 
 [Shtetl-Optimized](https://www.scottaaronson.com/blog/) | Author : Scott Aaronson | Subjects : Quantum computing, complexity theory
@@ -53,6 +55,12 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 [Michael Nielsen](http://michaelnielsen.org/blog/) | Author : Michael Nielsen | Subject : Quantum computing, ML, Deep Learning
 
 [John Baez’s Stuff](http://math.ucr.edu/home/baez/) | Author : John Carlos Baez | Subject : Applied Category Theory, Physics, Math
+
+[Blog](http://bastian.rieck.me/blog/) | Author : Bastian Rieck | Subjects : Topology, Programming
+
+[Melting Asphalt](https://meltingasphalt.com/archive/) | Author : Kevin Simler | Subjects : Economy, Programming
+
+[Unenumerated](http://unenumerated.blogspot.com/) | Author : Nick Szabo | Subjects : Crypto, Economy, Law
 
 [Overcoming Bias](http://www.overcomingbias.com/) | Author : Robin Hanson | Subjects : Economy, AGI
 
