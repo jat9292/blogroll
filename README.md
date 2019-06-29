@@ -40,7 +40,9 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [the morning paper](https://blog.acolyer.org) | Author : Adrian Colyer | Subject : CS, Neworks, ML, Deep Learning, Crypto
 
-[Guilherme's Blog](https://gdmarmerola.github.io/) | Author : Guilherme Duarte Marmerola | Subject : ML, Deep Learning, RL
+[Guilherme's Blog](https://gdmarmerola.github.io/) | Author : Guilherme Duarte Marmerola | Subject : ML, Deep Learning, RL, Causal Inference
+
+[Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/) | Authors : Many | Subject : Bayesian ML, Causal Inference, Statistics
 
 [Kevin Hua](https://kevinhua.shinyapps.io/DS_viz/) | Author : Kevin Hua | Subject : ML, DataViz
 
