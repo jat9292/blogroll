@@ -82,6 +82,8 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [Piekniewski's blog](https://blog.piekniewski.info/) | Author : Filip Piękniewski | Subjects : Computer Vision, Deep Learning critic
 
+[Onionesque Reality](https://onionesquereality.wordpress.com) | Author : Shubhendu Trivedi | Subjects : ML, Learning Theory
+
 [Eigenfoo](https://eigenfoo.xyz/) | Author :  George Ho | Subjects : Bayesian ML, NLP
 
-[Machine Thoughts](https://machinethoughts.wordpress.com/) | Author : David McAllester | Subjects : ML, Deep Learning Theory
+[Machine Thoughts](https://machinethoughts.wordpress.com/) | Author : David McAllester | Subjects : ML, Deep Learning Theory, Unsupervised Learning
