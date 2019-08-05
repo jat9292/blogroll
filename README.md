@@ -24,6 +24,8 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [Depth First Learning](https://www.depthfirstlearning.com/) | Authors : Many | Subjects : Deep Learning theory, ML, RL
 
+[R2RT](https://r2rt.com/) | Author : Anonymous | Subject : Deep Learning
+
 [Togelius](http://togelius.blogspot.com/)  | Author : Julian Togelius | Subjects : ML, Evolutionary Algorithms
 
 [On Machine Intelligence](https://dselsam.github.io/)  | Author : Daniel Selsam | Subjects : CS, Sat solvers, Probabilistic Programming
