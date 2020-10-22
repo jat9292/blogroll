@@ -14,6 +14,8 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 
 [Sorta Insightful](https://www.alexirpan.com/) | Author : Alex Irpan | Subject : RL
 
+[Sorta Insightful](https://maxhalford.github.io/blog/bayesian-linear-regression/#progressive-validation)  | Author : Max Halford | Subject : (Online) Machine Learning
+
 [Ian Osband](https://iosband.github.io/) | Author : Ian Osband | Subject : RL
 
 [Agustinus Kristiadi's Blog](https://wiseodd.github.io/) | Author :  Agustinus Kristiadi | Subjects : Bayesian ML, Deep Learning, Topology 
