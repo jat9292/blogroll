@@ -1,7 +1,6 @@
 # blogroll
 My favorite Machine Learning, Mathematics and Computer Science blogs
 
-
 [大トロ](http://blog.otoro.net/) | Author : David Ha | Subjects : RL, Evolutionary Algorithms
 
 [inFERENCe](https://www.inference.vc/) | Author : Ferenc Huszár | Subjects : Bayesian ML, RL, Generative models, Causal inference
@@ -13,6 +12,8 @@ My favorite Machine Learning, Mathematics and Computer Science blogs
 [Terra Incognita](http://blog.christianperone.com/) | Author : Christian S. Perone | Subjects : ML, CS, Crypto, Deep Learning
 
 [Sorta Insightful](https://www.alexirpan.com/) | Author : Alex Irpan | Subject : RL
+
+[koaning.io:](https://koaning.io/) | Author : Vincent D. Warmerdam | Subjects : Machine Learning
 
 [Max Halford](https://maxhalford.github.io/blog/) | Author : Max Halford | Subject : (Online) Machine Learning
 
